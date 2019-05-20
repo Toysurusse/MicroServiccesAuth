@@ -1,0 +1,7 @@
+model\RoleName.class
+model\Role.class
+model\Travel.class
+model\City.class
+model\Passager.class
+model\Event.class
+model\User.class

@@ -1,0 +1,6 @@
+repository\UserRepository.class
+repository\TravelRepository.class
+repository\EventRepository.class
+repository\PassagerRepository.class
+repository\CityRepository.class
+repository\RoleRepository.class
